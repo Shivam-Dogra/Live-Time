@@ -1,0 +1,21 @@
+.box{
+    background-color: coral;
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+    border-radius:  25px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
